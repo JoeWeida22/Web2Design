@@ -1,0 +1,28 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #b60000;
+  color: #7d5202;
+}
+
+h1, h2 {
+  color: #B30000;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.navbar .nav-link {
+  color: #f8f9fa;
+  margin-right: 1rem;
+}
+
+.navbar .nav-link:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #212529;
+  color: #fff;
+}
