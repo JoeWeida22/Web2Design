@@ -1,5 +1,5 @@
 nav {
-  background-color: #5c3c5c;
+  background-color: #683268;
   padding: 10px;
 }
 
@@ -15,7 +15,7 @@ nav li {
 
 nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: #a850b0;
   font-weight: bold;
 }
 
@@ -32,7 +32,7 @@ header {
 div {
   padding: 20px;
   font-family: 'Arial', sans-serif;
-  color: #111111;
+  color: #2d2c2c;
 }
 
 
